@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
 
-export const MODULES_ROUTES: Routes = [
+export const PAGES_ROUTES: Routes = [
   {
     path: '',
     redirectTo: 'home',
